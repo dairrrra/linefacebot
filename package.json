@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/s0raySoA/linefacebot#readme",
   "dependencies": {
-    "@line/bot-sdk": "^6.3.0"
+    "@line/bot-sdk": "^6.8.0"
   }
 }
